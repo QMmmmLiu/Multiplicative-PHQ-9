@@ -12,7 +12,7 @@ Methodologically, misusing AMs can lead to underpowered studies with as low as 2
 
 **Method**
 
-The current study focuses on the use of MMs on depression, as measured by PHQ-9 in three panels of the PROMIS open dataset (_n_ = 175) [15]i. We examined distributional forms via visualization and the inter-panel and item-rest relations via different AMs and MMs. Inter-panel relations were examined through fixed-effects and mixed-effects linear and polynomial models (see notes in Table 1a and 1b for specific model forms). Item-rest relations were represented via using the individual item to predict the sum of other items (SOI, i.e., sum scores – the individual item score). MMs are applied by first log-transforming all but dummy variables, then fitting respective models, and finally back-transforming certain parameters.ii This effectively fits log-log fixed-effect and mixed-effect linear models.
+The current study focuses on the use of MMs on depression, as measured by PHQ-9 in three panels of the PROMIS open dataset (_n_ = 175) [15]. We examined distributional forms via visualization and the inter-panel and item-rest relations via different AMs and MMs. Inter-panel relations were examined through fixed-effects and mixed-effects linear and polynomial models (see notes in Table 1a and 1b for specific model forms). Item-rest relations were represented via using the individual item to predict the sum of other items (SOI, i.e., sum scores – the individual item score). MMs are applied by first log-transforming all but dummy variables, then fitting respective models, and finally back-transforming certain parameters.ii This effectively fits log-log fixed-effect and mixed-effect linear models.
 
 **Results**
 
