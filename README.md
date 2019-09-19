@@ -62,3 +62,4 @@ References:
 
 [16] K. P. Burnham and D. R. Anderson, _Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach_, 2nd Editio. New York: Springer-Verlag, 2002.
 
+Note: Due to Github Markdown does not have innate support for LaTex, Tables and Figures are included in the .doc file.
